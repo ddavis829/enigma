@@ -1,0 +1,6 @@
+C:\Users\ddavis\Downloads\bin\Debug\Enigma.exe
+C:\Users\ddavis\Downloads\Enigma_emulator_src\enigma\obj\Debug\Enigma.csprojResolveAssemblyReference.cache
+C:\Users\ddavis\Downloads\Enigma_emulator_src\enigma\obj\Debug\Enigma.exe
+C:\Users\ddavis\Downloads\Enigma_emulator_src\enigma\obj\Debug\Enigma.pdb
+C:\Users\ddavis\Downloads\Enigma_emulator_src\enigma\bin\Debug\Enigma.exe
+C:\Users\ddavis\Downloads\Enigma_emulator_src\enigma\bin\Debug\Enigma.pdb
